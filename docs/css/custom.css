@@ -1,0 +1,39 @@
+/* Please override here. */
+
+figure {
+    border-bottom: dotted;
+    border-top: dotted;
+    border-left: dotted;
+    border-right: dotted;
+    border-width: thin;
+    page-break-after: always;
+    margin-bottom: 1.5em;
+}
+
+figcaption h4 {
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    text-wrap: avoid;
+}
+
+figcaption p {
+    font-style: italic;
+    font-weight: normal;
+    text-align: center;
+    text-wrap: avoid;
+}
+
+blockquote p {
+    font-size: medium;
+}
+
+h3 {
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-size: larger;
+}
+
+sup {
+    font-size: medium;
+}
